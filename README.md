@@ -1,3 +1,3 @@
-# Adinda Sim
+# Godot game
 
-adinda spelletje
+testing godot
